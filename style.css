@@ -1,11 +1,35 @@
+/*
+#ac3c5a -> body's background color
+#ffbf2d -> header's background color
+#472b5d -> menu's background color
+#892143 -> footer's background color
+*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 body{
-    background-color: #6d343b;
+    background-color: #ac3c5a;
+}
+header{
+    text-align: center;
+    background-color:#f8b12d;
+    margin:0px 20%;
+    padding:50px;
+}
+header h1{
+    color: #fff;
+    margin:10px;
 }
 nav{
-    background-color: #874c61;
+  background-color: #472b5d;
     text-align:center;
-    padding:20px;
+    padding:20px;  
+    margin:0px 20%;
 }
+
 a{
     font-size: 20px;
     color: #ffff;
@@ -14,8 +38,4 @@ a{
 a:hover{
     color: #ef8b00;
     text-decoration: underline;
-}
-header{
-    text-align: center;
-    color: #ffff;
 }
