@@ -39,3 +39,19 @@ a:hover{
     color: #ef8b00;
     text-decoration: underline;
 }
+section{
+    margin:0px 20%;
+    background-color: rgb(244, 244, 234);
+}
+section img{
+    width: 100%;
+}
+section p,h4{
+    margin:40px;
+    line-height: 30px;
+}
+footer{
+    text-align: center;
+    background-color:#472b5d;
+    color:#fff;
+}
