@@ -47,11 +47,13 @@ section img{
     width: 100%;
 }
 section p,h4{
-    margin:40px;
+    padding:40px;
     line-height: 30px;
 }
 footer{
     text-align: center;
     background-color:#472b5d;
     color:#fff;
+    margin:0px 20%;
+    padding: 20px;
 }
