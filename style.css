@@ -50,6 +50,15 @@ section p,h4{
     padding:40px;
     line-height: 30px;
 }
+table{
+    width: 60%;
+    border: 1px solid #ccc;
+}
+tr:hover{
+    background-color: #f8b12d;
+    color:#472b5d
+    font-size: 18px;
+}
 footer{
     text-align: center;
     background-color:#472b5d;
