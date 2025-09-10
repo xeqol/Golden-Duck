@@ -56,7 +56,7 @@ table{
 }
 tr:hover{
     background-color: #f8b12d;
-    color:#472b5d
+    color:#472b5d;
     font-size: 18px;
 }
 footer{
@@ -64,5 +64,8 @@ footer{
     background-color:#472b5d;
     color:#fff;
     margin:0px 20%;
+    padding: 20px;
+}
+table{
     padding: 20px;
 }
